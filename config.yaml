@@ -4,8 +4,8 @@
 # 跑裸核用户请自行去掉下方控制面板模块的注释。
 # 机场订阅
 proxy-providers:
-  Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+  flying-bird:
+    url: ""
     type: http
     interval: 86400
     health-check:
